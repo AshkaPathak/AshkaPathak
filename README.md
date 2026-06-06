@@ -109,16 +109,13 @@ curious, ambitious, occasionally debugging my entire life
 
 ## ✦ github stats
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=AshkaPathak&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0b1026&title_color=d8c8ff&text_color=f8f4e8&icon_color=ffe8a3" alt="Ashka's GitHub stats" width="100%">
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkaPathak&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0b1026&title_color=d8c8ff&text_color=f8f4e8" alt="Ashka's top languages" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="Ashka's GitHub snapshot" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/language-map.svg" alt="Ashka's language map" width="100%">
+</p>
 
 <p align="center">
   <strong>currently building my own map through tech 🌙</strong>
