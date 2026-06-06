@@ -59,24 +59,24 @@ curious, ambitious, occasionally debugging my entire life
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>TDS Virtual TA</strong><br>
+      <strong><a href="https://github.com/AshkaPathak/TDS-Virtual-TA">TDS Virtual TA</a></strong><br>
       Course assistant using scraped content and semantic search.<br>
       <code>FastAPI</code> <code>Python</code> <code>FAISS</code>
     </td>
     <td width="50%" valign="top">
-      <strong>Placement Portal</strong><br>
+      <strong><a href="https://github.com/AshkaPathak/Placement-Portal-Application">Placement Portal</a></strong><br>
       Role-based portal for students, companies, and admins.<br>
       <code>Flask</code> <code>SQLite</code> <code>RBAC</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Hospital Management System</strong><br>
+      <strong><a href="https://github.com/AshkaPathak/hospital-management">Hospital Management System</a></strong><br>
       Admin, doctor, and patient workflows with clean dashboards.<br>
       <code>Flask</code> <code>SQLite</code> <code>Jinja</code>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/FarzanBhalara/Discretized-Neural-SDE-for-Risk-Return-and-Market-regimes">Discretized Neural SDE</a></strong><br>
+      <strong><a href="https://github.com/AshkaPathak/Discretized-Neural-SDE-for-Risk-Return-and-Market-regimes">Discretized Neural SDE</a></strong><br>
       Risk-return and market regime modeling with discretized neural dynamics.<br>
       <code>Python</code> <code>ML</code> <code>Time Series</code>
     </td>
