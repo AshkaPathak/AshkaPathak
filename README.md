@@ -76,9 +76,9 @@ curious, ambitious, occasionally debugging my entire life
       <code>Flask</code> <code>SQLite</code> <code>Jinja</code>
     </td>
     <td width="50%" valign="top">
-      <strong>Transactions Glance View</strong><br>
-      Production-facing earnings transaction experience built during internship.<br>
-      <code>Angular</code> <code>TypeScript</code> <code>AWS</code> <code>APIs</code>
+      <strong><a href="https://github.com/FarzanBhalara/Discretized-Neural-SDE-for-Risk-Return-and-Market-regimes">Discretized Neural SDE</a></strong><br>
+      Risk-return and market regime modeling with discretized neural dynamics.<br>
+      <code>Python</code> <code>ML</code> <code>Time Series</code>
     </td>
   </tr>
 </table>
