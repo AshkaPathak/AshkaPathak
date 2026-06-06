@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-labelledby="title desc">
+  <title id="title">cosmic divider</title>
+  <desc id="desc">A minimal constellation trail divider in navy, purple, lavender, and cream.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d8c8ff" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#d8c8ff" stop-opacity="0.46"/>
+      <stop offset="0.5" stop-color="#ffe8a3" stop-opacity="0.72"/>
+      <stop offset="0.82" stop-color="#d8c8ff" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#d8c8ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="80" rx="18" fill="#0b1026"/>
+  <path d="M83 42 C206 18 281 63 395 38 S579 19 673 43 S836 63 941 35 S1075 37 1121 52" fill="none" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#d8c8ff">
+    <circle cx="171" cy="31" r="4"/>
+    <circle cx="395" cy="38" r="3.5"/>
+    <circle cx="579" cy="28" r="4"/>
+    <circle cx="673" cy="43" r="3.5"/>
+    <circle cx="941" cy="35" r="4"/>
+    <circle cx="1121" cy="52" r="3.5"/>
+  </g>
+  <g fill="#ffe8a3" opacity="0.86">
+    <circle cx="83" cy="42" r="2.5"/>
+    <circle cx="285" cy="53" r="2.5"/>
+    <circle cx="784" cy="58" r="2.5"/>
+    <circle cx="1056" cy="38" r="2.5"/>
+    <path d="M510 44 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/>
+  </g>
+</svg>
