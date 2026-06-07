@@ -1,16 +1,16 @@
 <img src="./assets/header.svg" width="100%" alt="welcome to ashka's workspace" />
 
 <p align="center">
-  <strong>B.Tech ICT @ DAIICT · BS Data Science @ IIT Madras</strong><br>
-  currently building my way through full-stack, data, cloud, and machine learning.
+  <strong>B.Tech ICT @ DAU · BS Data Science @ IIT Madras</strong><br>
+  currently building my way through full-stack, data, cloud, finance, and machine learning.
 </p>
 
 ```console
 ashka@github:~$ whoami
-B.Tech ICT @ DAIICT · BS Data Science @ IIT Madras
+B.Tech ICT @ DAU · BS Data Science @ IIT Madras
 
 ashka@github:~$ current_focus
-full-stack · data · cloud · machine learning
+full-stack · data · cloud · finance · machine learning
 
 ashka@github:~$ mood
 curious, ambitious, occasionally debugging my entire life
@@ -35,19 +35,23 @@ curious, ambitious, occasionally debugging my entire life
 
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <strong>Machine Learning</strong><br>
       making it less scary and more buildable
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <strong>Full-stack</strong><br>
       learning through real products and real bugs
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <strong>Cloud</strong><br>
       understanding what happens after “works locally”
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
+      <strong>Finance</strong><br>
+      learning how markets, risk, and products connect
+    </td>
+    <td width="20%" valign="top">
       <strong>DSA</strong><br>
       complicated relationship, but we’re improving
     </td>
@@ -78,7 +82,7 @@ curious, ambitious, occasionally debugging my entire life
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AshkaPathak/Discretized-Neural-SDE-for-Risk-Return-and-Market-regimes">Discretized Neural SDE</a></strong><br>
       Risk-return and market regime modeling with discretized neural dynamics.<br>
-      <code>Python</code> <code>ML</code> <code>Time Series</code>
+      <code>Python</code> <code>ML</code> <code>Finance</code> <code>Time Series</code>
     </td>
   </tr>
 </table>
