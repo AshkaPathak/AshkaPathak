@@ -71,9 +71,9 @@ curious, ambitious, occasionally debugging my entire life
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/AshkaPathak/hospital-management">Hospital Management System</a></strong><br>
-      Admin, doctor, and patient workflows with clean dashboards.<br>
-      <code>Flask</code> <code>SQLite</code> <code>Jinja</code>
+      <strong><a href="https://github.com/AshkaPathak/Coincious-Smart-Expense-Tracker">Coincious Smart Expense Tracker</a></strong><br>
+      Smart expense tracking with cleaner money visibility and user-focused flows.<br>
+      <code>Python</code> <code>Finance</code> <code>Dashboards</code>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AshkaPathak/Discretized-Neural-SDE-for-Risk-Return-and-Market-regimes">Discretized Neural SDE</a></strong><br>
